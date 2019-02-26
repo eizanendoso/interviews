@@ -22,9 +22,7 @@ https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/python
 
 ## Javascript
 https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript
-
 https://www.codewars.com/kata/find-the-unique/train/javascript
-
 https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript
 https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript
 https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/javascript
